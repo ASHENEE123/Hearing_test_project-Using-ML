@@ -1,1 +1,1 @@
-# Hearing_test_project-Using-ML
+The project is about the testing the hearing of a person based on their age and physical activity score based on which the predication is made for which i had used logistic alogrithm and achieve accuracy of 90 % . It can further also be imporved in various way by incresaing the features also.
